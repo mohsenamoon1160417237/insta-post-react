@@ -1,0 +1,31 @@
+.file-bar-small{
+  padding: 10px 15px;
+  border: 0.5px #DCDCDC solid;
+  border-radius: 1px;
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90vw;
+}
+
+.file-bar-big{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.remove-file{
+  cursor: pointer;
+  text-align: center;
+  width: 10vw;
+}
+
+.file-input{
+  margin-bottom: 10px;
+}
+
+.files-list{
+  margin-bottom: 10px;
+}

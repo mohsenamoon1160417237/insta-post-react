@@ -1,0 +1,8 @@
+.editor-class {
+  height: 400px;
+/* overflow: auto; */
+  box-sizing: border-box;
+  border-radius: 2px;
+  border: 1px solid #F1F1F1;
+  margin-bottom: 10px;
+}
